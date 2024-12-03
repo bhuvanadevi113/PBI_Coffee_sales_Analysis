@@ -1,6 +1,6 @@
-# PBI_Coffee_sales_Analysis
+# SQL and PBI_Coffee_sales_Analysis
 
-For a few months, I want to examine the sales at coffee shops. After receiving a dataset as an Excel file, I used Power Query to perform some data cleanup and produce the dashboard that is displayed below. 
+For a few months, I want to examine the sales at coffee shops. After receiving a dataset as an Excel file, I used Power Query to perform some data cleanup and produce the dashboard that is displayed below. Also,i have uploaded these data into mysql and analysed it by using window function,joins and subqueries. 
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/c3c16a0f-ca3f-4cbc-adbf-6d056678b2ef">
 
